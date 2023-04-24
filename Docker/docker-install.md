@@ -17,12 +17,9 @@ The following hardware prerequisites are required to successfully run WSL 2 on W
 ### Install Docker Desktop
 
 - Download Docker Desktop from [here](https://docs.docker.com/desktop/install/windows-install/).
-
 - Run the installer
-
 - When prompted, ensure the Use WSL 2 instead of Hyper-V option on the Configuration page is selected or not depending on your choice of backend.
-
-- follow the instructions on the screen to complete the installation.
+- Follow the instructions on the screen to complete the installation.
 
 Note:
 
@@ -104,23 +101,16 @@ Docker is now ready to deploy containers.
 ### Requirements
 
 - macOS must be version 11 or newer. That is Big Sur (11), Monterey (12), or Ventura (13). We recommend upgrading to the latest version of macOS.
-
 - At least 4 GB of RAM.
-
 - VirtualBox prior to version 4.3.30 must not be installed as it is not compatible with Docker Desktop.
 
 ### Install Docker Desktop
 
 - Download Docker Desktop from [here](https://docs.docker.com/desktop/install/mac-install/).
-
 - Run the installer and follow instructions on the screen to complete the installation.
-
 - Launch Docker Desktop app from the Applications folder
-
 - First time round you will need to accept the Subscription Service Agreement.
-
 - Use recommended settings unless you want to change them and know what your doing.
-
 - Once all that is done you should see the Docker Desktop icon in the system tray.
 
 Note:
